@@ -1,0 +1,3 @@
+Veg#Burger#60.0
+Chicken#Burger#60.0
+Fried#Burger#60.0

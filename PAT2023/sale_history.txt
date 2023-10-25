@@ -1,0 +1,12 @@
+
+32.0#Coke#jm#2023-10-22 #true
+0.0#Sandwich Chicken##2023-10-22 #false
+0.0#Sandwich Chicken#Jake#2023-10-22#true
+0.0#Energade#Jake#2023-10-22#true
+0.0#Coke##2023-10-22#true
+80.0#Energade#dffggf#2023-10-22#true
+80.0#Energade#dff#2023-10-22#true
+140.0#Energade#James#2023-10-22#true
+140.0#Coke#James#2023-10-22#true
+360.0#Fried#James#2023-10-23#true
+360.0#Chicken#James#2023-10-23#true
